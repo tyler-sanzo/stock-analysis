@@ -42,7 +42,7 @@ Refactoring as it pertains to the analysis in this project was largely done to t
 #### Pros
 The advantages of this can be seen in both years of the results section; after refactoring the code we see an 80% decrease in runtime. Although the actual time value difference is only a fraction of a second and can be considered negligible if this is were the extent of the project, this efficiency increase would be very beneficial if the dataset was much larger. 
 
-### Cons
+#### Cons
 The main disadvantage I can see in the refactored code is the use of "magic numbers" when setting up the arrays. If one wanted to use this script to analyze a dataset with more than 12 stocks, the code would have to be refactored again to accommodate for this. On the contrary, the original script is able to handle any number of stocks as one would like to add given they are added to the "tickers()" array. 
 
 
