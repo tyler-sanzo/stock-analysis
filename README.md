@@ -30,3 +30,5 @@ From the images we can see the refactored code increased run efficiency by close
 ![2018 Runtime Refactored](https://github.com/tyler-sanzo/stock-analysis/blob/main/Challenge/Resources/VBA_Challenge_2018.png)
 
 Again we see a similar runtime decrease using the refactored code.
+=======
+>>>>>>> 83b649ea14d716480d3a621285393da2cf7ef434
