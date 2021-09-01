@@ -8,3 +8,7 @@ Steve, a friend who recently graduated with his finance degree, wants to help hi
 Although this tool has been configured to be flexible and take more annual datasets, below I will go over the results of the analysis for the datasets given by Steve (2017 and 2018).
 
 ### 2017
+2017 was a strong year for green energy stocks all around with all but 1 of the 12 companies having a positive return at the end of the year; four of which saw a return of over 100%. 
+
+![2017 Results](https://github.com/tyler-sanzo/stock-analysis/blob/main/Challenge/Resources/VBA_Challenge_2017_Results.PNG)
+
