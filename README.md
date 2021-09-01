@@ -12,3 +12,8 @@ Although this tool has been configured to be flexible and take more annual datas
 
 ![2017 Results](https://github.com/tyler-sanzo/stock-analysis/blob/main/Challenge/Resources/VBA_Challenge_2017_Results.PNG)
 
+Below are images taken of the analysis runtimes for the both the initial and refactored code, respectively.
+
+![2017 Runtime Initial](https://github.com/tyler-sanzo/stock-analysis/blob/main/Challenge/Resources/initial_runtime_2017.PNG)
+
+![2017 Runtime Refactored](https://github.com/tyler-sanzo/stock-analysis/blob/main/Challenge/Resources/VBA_Challenge_2017.PNG)
